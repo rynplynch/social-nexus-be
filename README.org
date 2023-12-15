@@ -3,7 +3,7 @@
 #+date: Thu Dec 14 17:33:06 2023
 
 * Goal of Project
-Bring together social media apps into a single platform. Help those who operate business's online by gathering all their customers into one location. Give them the tools to better manage orders in one convenient location.
+Bring together social media apps into a single platform. Help those who operate businesses online by gathering all their customers into one location. Give them the tools to better manage orders in one convenient location.
 * Technologies Used
 ** dotnet
 The project will be generated using:
